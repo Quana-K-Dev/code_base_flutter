@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="primary">#FF5722</color>
+    <color name="secondary">#FF4081</color>
+    <color name="amber">#FFC107</color>
+    <color name="light_gray">#E6E6E6</color>
+    <color name="gray">#757575</color>
+    <color name="material_primary" type="material">#FF5722</color>
+
+    <!-- Background Style-->
+    <color name="Background">#FDFEFF</color>
+    <color name="Background/Primary">#DAECFD</color>
+    <color name="Background/Red">#F8E7E7</color>
+    <color name="Background/Disabled">#F4F4F4</color>
+
+    <!-- Line-->
+    <color name="Line">#212121</color>
+    <color name="Line/Error">#E31818</color>
+    <color name="Line/Divider">#F4F4F4</color>
+    <color name="Line/Focus">#A4C9E9</color>
+    <color name="Line/DividerSecond">#E5E5EA</color>
+    <color name="Line/None">#88828282</color>
+
+    <!-- Text-->
+    <color name="Text/Primary">#212121</color>
+    <color name="Text/Secondary">#6D6E70</color>
+    <color name="Text/Error">#E31818</color>
+    <color name="Text/Red">#F24B69</color>
+    <color name="Text/Unselected">#A9A9A9</color>
+    <color name="Text/Selected">#4194DE</color>
+    <color name="Text/Description">#8E8E93</color>
+
+    <!--Button Style-->
+    <color name="Button/Disabled">#F0F0F0</color>
+    <color name="Button/Cupertino">#3478F6</color>
+
+    <!-- Background Style-->
+    <color name="Background">#FDFEFF</color>
+    <color name="Background/Primary">#DAECFD</color>
+    <color name="Background/Red">#F8E7E7</color>
+    <color name="Background/Disabled">#F4F4F4</color>
+</resources>
